@@ -1,0 +1,6 @@
+com\niit\projectchat\dao\UserDAO.class
+com\niit\projectchat\model\BaseDomain.class
+com\niit\projectchat\model\User.class
+com\niit\projectchat\config\ApplicationContextConfig.class
+com\niit\projectchat\controller\UserController.class
+com\niit\projectchat\daoimpl\UserDAOImpl.class
